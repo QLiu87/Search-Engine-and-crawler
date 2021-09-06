@@ -1,4 +1,4 @@
-# crawler
+# Web Crawler with Search Engine
  A basic crawler that crawls about 50 MB of data from a given URL
 
  There is a main class Crawler, which takes in one url, find all a tag href links and store them to a queue.txt file. The txt data from this URL are written into temp_data.json.
